@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/sebgos/husky-demo/compare/v1.1.0...v1.2.0) (2020-04-24)
+
+
+### Features
+
+* **feature-b:** add feature-b ([9506d23](https://github.com/sebgos/husky-demo/commit/9506d23f86cf11a2c37c67e91bcfd801568f4af9))
+
 ## [1.1.0](https://github.com/sebgos/husky-demo/compare/v1.0.0...v1.1.0) (2020-04-24)
 
 
